@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <fileVersion>2</fileVersion>
+    <fileChecksum>234814113</fileChecksum>
+    <configuration>
+        <name>Debug</name>
+        <outputs>
+            <file>$PROJ_DIR$\Debug\Obj\projeto_teste.__cstat.et</file>
+            <file>$PROJ_DIR$\src\startup_TM4C1294.s</file>
+            <file>$PROJ_DIR$\Debug\Obj\startup_TM4C1294.o</file>
+            <file>$PROJ_DIR$\Debug\Exe\projeto_teste.out</file>
+            <file>$PROJ_DIR$\Debug\Obj\projeto_teste.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\projeto_teste.pbi</file>
+            <file>$PROJ_DIR$\Debug\List\projeto_teste.map</file>
+            <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+            <file>$TOOLKIT_DIR$\lib\m7M_tls.a</file>
+            <file>$PROJ_DIR$\Debug\Obj\system_TM4C1294_TW.pbi</file>
+            <file>$TOOLKIT_DIR$\config\linker\TexasInstruments\TM4C1294NC.icf</file>
+            <file>$TOOLKIT_DIR$\lib\dl7M_tln.a</file>
+            <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+            <file>$PROJ_DIR$\Debug\Obj\system_TM4C1294_TW.o</file>
+            <file>$PROJ_DIR$\..\..\TivaWare_C_Series-2.1.4.178\driverlib\systick.h</file>
+            <file>$PROJ_DIR$\..\..\TivaWare_C_Series-2.1.4.178\driverlib\gpio.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdbool.h</file>
+            <file>$PROJ_DIR$\src\system_TM4C1294.h</file>
+            <file>$PROJ_DIR$\src\TM4C1294NCPDT.h</file>
+            <file>$TOOLKIT_DIR$\CMSIS\Core\Include\cmsis_iccarm.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\system_TM4C1294.o</file>
+            <file>$PROJ_DIR$\src\system_TM4C1294.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\system_TM4C1294.pbi</file>
+            <file>$PROJ_DIR$\..\simple_io_main_sp\src\simple_io_main_sp.c</file>
+            <file>$TOOLKIT_DIR$\CMSIS\Core\Include\core_cm4.h</file>
+            <file>$TOOLKIT_DIR$\CMSIS\Core\Include\cmsis_version.h</file>
+            <file>$TOOLKIT_DIR$\CMSIS\Core\Include\cmsis_compiler.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\iccarm_builtin.h</file>
+            <file>$PROJ_DIR$\..\..\TivaWare_C_Series-2.1.4.178\driverlib\Debug\Exe\driverlib.a</file>
+            <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\simple_io_main_sp.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\simple_io_main_sp.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\projeto_teste.pbd</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+            <file>$PROJ_DIR$\..\..\TivaWare_C_Series-2.1.4.178\driverlib\sysctl.h</file>
+            <file>$PROJ_DIR$\..\..\TivaWare_C_Series-2.1.4.178\inc\hw_memmap.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+            <file>$PROJ_DIR$\src\system_TM4C1294_TW.c</file>
+            <file>$PROJ_DIR$\src\projeto_teste.c</file>
+        </outputs>
+        <file>
+            <name>$PROJ_DIR$\src\startup_TM4C1294.s</name>
+            <outputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 2</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Debug\Exe\projeto_teste.out</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 6</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 10 31 4 2 23 7 12 8 11</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\src\system_TM4C1294.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 23</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 25</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 18 32 17 16 36 39 21 27 28 29 22 30 20</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 32 36 27 18 21 17 39 22 16 20 28 29 30</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\simple_io_main_sp\src\simple_io_main_sp.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 34</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 33</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 36 37 38 32 39 19 15 14 17 16 18</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\src\system_TM4C1294_TW.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 13</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 9</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 16 28 30 18 19 17 21 37 32 36 39 20 29 27 22</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\src\projeto_teste.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 4</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 5</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 0</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 18 32 17 16 36 39 19 38 15 37 14</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 36 37 38 32 39 19 15 14 17 16 18</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 3 6</file>
+                </tool>
+            </outputs>
+        </file>
+        <forcedrebuild>
+            <name>[MULTI_TOOL]</name>
+            <tool>ILINK</tool>
+        </forcedrebuild>
+    </configuration>
+    <configuration>
+        <name>Release</name>
+        <outputs />
+        <forcedrebuild>
+            <name>[MULTI_TOOL]</name>
+            <tool>ILINK</tool>
+        </forcedrebuild>
+    </configuration>
+</project>
